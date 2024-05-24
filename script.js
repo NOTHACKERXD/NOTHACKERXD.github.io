@@ -61,7 +61,7 @@ document.getElementById('noBtn').addEventListener('click', function () {
         noBtn.style.display = 'none';
         yesBtn.style.position = 'absolute';
         yesBtn.style.left = '45%';
-        yesBtn.style.top = '45%';
+        yesBtn.style.top = '50%';
         //yesBtn.style.transform = 'translateX(-50%)';
        // yesBtn.style.fontSize = ;
     }
