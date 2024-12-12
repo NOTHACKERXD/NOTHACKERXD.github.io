@@ -9,7 +9,7 @@ document.getElementById('yesBtn').addEventListener('click', function () {
     onyes.play();
 
     setTimeout(function () {
-        alert('now your IP is mine hehehe ❤️');
+        alert('❤️');
         location.reload(); 
     }, 3000);
 });
@@ -17,15 +17,15 @@ document.getElementById('yesBtn').addEventListener('click', function () {
 
 const phrases = [
   
-        "Happy birthday Lydia!",
-        "May your day be filled with laughter, joy, and unforgettable moments.",
-        "Wishing you a day as bright and beautiful as you are!",
-        "Cheers to another year of wonderful adventures and cherished memories!",
-        "Sending you smiles, hugs, and lots of love on your special day!",
-        "Here's to celebrating you and all the amazing things you bring into this world!",
-        "May your birthday be sprinkled with happiness, wrapped in love, and filled with all your heart desires!",
-        "Another year older, another reason to celebrate the incredible person you are!",
-        "On your birthday, may you be surrounded by friends, family, and all the happiness life can offer!"
+        "Χρόνια πολλά Μαρία μου!❤️❤️❤️", 
+        "Σου εύχομαινα είσαι πάντα χαρούμενη.",
+        "Γιατί έχεις το ποιό ωραίο χαμόγελο!❤️",
+        "!",
+        "!",
+        "!",
+        "!",
+        "!",
+        "!"
 
 
 
